@@ -1,7 +1,8 @@
 # AngularPlayground
 
 <pre>
-  src/
+
+src/
  +
  |
  +--+ app/
@@ -62,7 +63,8 @@
  |
  |
  +--+ assets/
-       +
+ |     +
+ ...   |
        |
        +--+ scss/
        |
