@@ -1,5 +1,11 @@
 # Angular Playground
 
+<img src="https://github.com/claudioontheweb/angular-playground/blob/master/angular.png" data-canonical-src="https://github.com/claudioontheweb/angular-playground/blob/master/angular.png" width="300" />
+
+
+## Example Structure
+Go Project structure for modular and easy testable application.
+
 <pre>
 
 src/
