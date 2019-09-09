@@ -4,7 +4,7 @@
 
 
 ## Example Structure
-Go Project structure for modular and easy testable application.
+Modular and efficient Angular project structure.
 
 <pre>
 
@@ -77,3 +77,9 @@ src/
        ...
 
 </pre>
+
+## Useful Angular Articles and Ressources
+
+### Angular Basics
+* [Tour of Heroes](https://angular.io/tutorial)
+---
