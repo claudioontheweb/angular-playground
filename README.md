@@ -1,4 +1,4 @@
-# AngularPlayground
+# Angular Playground
 
 <pre>
 
